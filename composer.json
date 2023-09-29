@@ -1,5 +1,5 @@
 {
-    "name": "wdb/drive",
+    "name": "wdatabase/drive",
     "description": "Wdb drive",
     "type": "library",
     "require": {
